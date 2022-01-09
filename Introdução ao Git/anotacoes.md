@@ -4,7 +4,7 @@
 
 Abrimos o terminal, criamos uma pasta exemplo `workspace`, abrimos essa pasta para facilitar iniciamos o `Git Bash` dentro dela, com o bash aberto na pasta, criamos outra pasta com o comando `mkdir nome da pasta`, vamos cria um arquivo `markdown` nome do `arquivo.md`.
 
-Para mover este arquivo para a pasta que criamos usamos o comando `mv arquivo.md ./ nome da pasta`, digite Ctrl l para limpar o terminal, `gi add nome do arquivo`, e vamos criar um commit, `git commit -m "criar pasta"` um git status para verificar se temos alguma pendencia.
+Para mover este arquivo para a pasta que criamos usamos o comando `mv arquivo.md ./ nome da pasta`, digite Ctrl l para limpar o terminal, `gi add nome do arquivo`, e vamos criar um commit, `git commit -m "criar pasta"` um git status para verificar se temos alguma pendência.
 
 **Linux**:penguin: 
 
