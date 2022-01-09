@@ -14,10 +14,6 @@ Após iniciar o `git init`no seu termina você tem que configurar seu nome e ema
 
 
 
-![Alt text](/home/alcides/Imagens/Captura de tela de 2022-01-09 09-34-57.png)
-
-
-
 
 
 # Comandos:keyboard:
