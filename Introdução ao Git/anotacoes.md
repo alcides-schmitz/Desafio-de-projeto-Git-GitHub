@@ -44,6 +44,8 @@ Após iniciar o `git init`no seu termina você tem que configurar seu nome e ema
 
 Alguns comandos para usar através do terminal, na próxima atualização vou passar mais comandos de como clonar um repositório no GitHub e seus comandos, porém para uma melhor compreensão leia o livro e assista os videos da DIO, **introdução ao Git e ao GitHub**, **criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso** .
 
+# Lista de tarefas:bookmark_tabs: 
+
 - [x] git init
 - [x] git add
 - [x] git commit
